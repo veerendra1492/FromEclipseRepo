@@ -7,6 +7,8 @@ public class MainGitTest {
 
 		System.out.println("first print statement with commit");
 		System.out.println("second print statement with commit");
+		System.out.println("third print statement with commit");
+		System.out.println("fourth print statement with commit and push");
 	}
 
 }

@@ -6,6 +6,7 @@ public class MainGitTest {
 		// TODO Auto-generated method stub
 
 		System.out.println("first print statement with commit");
+		System.out.println("second print statement with commit");
 	}
 
 }
